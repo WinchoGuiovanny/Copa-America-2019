@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyThirdAplication</string>
+    <string name="encuentros">Encuentros</string>
+    <string name="posiciones">Posiciones</string>
+    <string name="jugadores">Jugadores</string>
+    <string name="textview">TextView</string>
+    <string name="partidos_para_hoy">Partidos para hoy</string>
+    <string name="grupos">Grupos</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="extras">Extras</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_encuentros">EncuentrosActivity</string>
+    <string name="todo">TODO</string>
+    <string name="button14">Button14</string>
+    <string name="prueba">prueba</string>
+</resources>
